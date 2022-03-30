@@ -4,7 +4,7 @@
 Realizar todo el ciclo de Agile y UX con un proyecto de entrega de comida en la cafetería del ITAM.
 
 # Funcionalidades
-- Aplicación web: usuario administrador que suber el menú.
+- Aplicación web: usuario administrador que sube el menú.
 - Aplicación móvil: usuario estudiante.
 
 
