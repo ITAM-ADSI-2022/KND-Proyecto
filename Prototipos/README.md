@@ -1,3 +1,3 @@
 # Prototipos
-- App móvil ![image](https://user-images.githubusercontent.com/77313210/164527221-2c7a6723-9282-4432-b57d-de0e9fdb2aee.png)
+- [App móvil - Moqups](https://app.moqups.com/ltw2Brs36MmKj5qwhlakD3Bj06M9Yxto/view/page/ac248d73c?ui=0)
 
