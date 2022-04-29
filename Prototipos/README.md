@@ -9,5 +9,10 @@ Las tres principales funcionalidades de nuestro prototipo son:
 
 ![prototipos_01](https://user-images.githubusercontent.com/70402438/164530689-16fb08ca-7f73-4f92-83e4-c1afa83064f8.png)
 ![prototipos_02](https://user-images.githubusercontent.com/70402438/164530703-3fe49470-cdd2-4512-8287-a34dc4c53abc.png)
+   
 
 # Pruebas de usabilidad
+
+Este prototipo se probó con la herramienta llamada UsabilityHub. La prueba consiste en ordenar unos chilaquiles verdes usando la aplicación. Para poder completar este objetivo, la persona debe iniciar sesión, agregar sus chilaquiles al carrito (sin especificaciones), pasar a la sección de pago y terminar su pedido. Dentro de los datos a medir tenemos:
+  * porcentaje de personas que completaron de pedido
+  * tiempo tomado en realizar el pedido: los que tardaron menos de 2 minutos y los que se llevaron más
