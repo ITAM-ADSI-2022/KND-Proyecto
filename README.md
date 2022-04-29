@@ -12,4 +12,3 @@ Realizar todo el ciclo de Agile y UX con un proyecto de entrega de comida en la 
 - Victoria Ordorica
 - María de la Luz Vizcaíno
 - Manuel Hermida
-- Alan Vivanco
