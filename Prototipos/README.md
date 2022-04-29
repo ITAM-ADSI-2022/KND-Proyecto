@@ -1,9 +1,9 @@
 # Prototipos
 
 Las tres principales funcionalidades de nuestro prototipo son:
-- Entrar a la aplicación.
-- Pagar unos chilaquiles verdes y unos molletes.
-- Agregar comentarios a los platillos.
+1. Entrar a la aplicación.
+2. Pagar unos chilaquiles verdes y unos molletes.
+3. Agregar comentarios a los platillos.
 
 - [App móvil - Moqups](https://app.moqups.com/ltw2Brs36MmKj5qwhlakD3Bj06M9Yxto/view/page/ac248d73c?ui=0)
 
