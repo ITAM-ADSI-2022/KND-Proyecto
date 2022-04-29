@@ -1,9 +1,9 @@
 # Prototipos
 
 Las tres principales funcionalidades de nuestro prototipo son:
-1. Inicio de sesión: entrar a la aplicación con los datos de comunidad ITAM.
-2. Menu: Elegir comida y agregarla al carrito con o sin especificaciones, por ejemplo, unos chilaquiles verdes y unos molletes
-3. Calificar comida: agregar comentarios y calificación a los platillos.
+1. **Inicio de sesión:** entrar a la aplicación con los datos de comunidad ITAM.
+2. **Menu:** Elegir comida y agregarla al carrito con o sin especificaciones, por ejemplo, unos chilaquiles verdes y unos molletes
+3. **Calificar comida:** agregar comentarios y calificación a los platillos.
 
 - [App móvil - Moqups](https://app.moqups.com/ltw2Brs36MmKj5qwhlakD3Bj06M9Yxto/view/page/ac248d73c?ui=0)
 
@@ -13,6 +13,6 @@ Las tres principales funcionalidades de nuestro prototipo son:
 
 # Pruebas de usabilidad
 
-Este prototipo se probó con la herramienta llamada UsabilityHub. La prueba consiste en ordenar unos chilaquiles verdes usando la aplicación. Para poder completar este objetivo, la persona debe iniciar sesión, agregar sus chilaquiles al carrito (sin especificaciones), pasar a la sección de pago y terminar su pedido. Dentro de los datos a medir tenemos:
-  * porcentaje de personas que completaron de pedido
-  * tiempo tomado en realizar el pedido: los que tardaron menos de 2 minutos y los que se llevaron más
+Este prototipo se probó con la herramienta llamada UsabilityHub. La prueba consiste en ordenar unos chilaquiles verdes usando la aplicación. Para poder completar este objetivo, la persona debe iniciar sesión, agregar sus chilaquiles al carrito (sin especificaciones), pasar a la sección de pago y terminar su pedido. Dentro de las métricas tenemos:
+  * Porcentaje de estudiantes que completaron de pedido con éxito.
+  * Estudiantes tardan aproximadamente 2 minutos en realizar el pedido.
