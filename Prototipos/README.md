@@ -13,6 +13,10 @@ Las tres principales funcionalidades de nuestro prototipo son:
 
 # Pruebas de usabilidad
 
-Este prototipo se probó con la herramienta llamada UsabilityHub. La prueba consiste en ordenar unos chilaquiles verdes usando la aplicación. Para poder completar este objetivo, la persona debe iniciar sesión, agregar sus chilaquiles al carrito (sin especificaciones), pasar a la sección de pago y terminar su pedido. Dentro de las métricas tenemos:
-  * Porcentaje de estudiantes que completaron de pedido con éxito.
-  * Estudiantes tardan aproximadamente 2 minutos en realizar el pedido.
+Este prototipo se probó con la herramienta llamada UsabilityHub. La prueba consiste en ordenar unos chilaquiles verdes usando la aplicación. Para poder completar este objetivo, la persona debe iniciar sesión, agregar sus chilaquiles al carrito (sin especificaciones), pasar a la sección de pago y terminar su pedido. 
+
+Realizamos la prueba de usabilidad con 10 usuarios y comparamos el tiempo que tardaron en realizar el pedido en la aplicación CAFITAM.
+![gráfica_pruebas](https://user-images.githubusercontent.com/35547664/166003757-3ae13ce5-b1c7-4c6f-906c-b002a6d96991.png)
+
+- [Prueba de usabilidad](https://app.usabilityhub.com/do/1e15a405da9a/f3fb)
+
