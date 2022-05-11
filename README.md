@@ -5,7 +5,7 @@ Realizar todo el ciclo de Agile y UX con un proyecto de entrega de comida en la 
 
 # Funcionalidades
 - Aplicación web: usuario administrador que sube el menú.
-- Aplicación móvil: usuario estudiante.
+- Aplicación móvil: Usuario estudiante quien pide comida a través de la app.
 
 
 # Miembros del equipo
